@@ -30,9 +30,4 @@ Finding: Even without "knowing" the genre, the math naturally clustered similar 
 I calculated the Mathematical Centroid (center of mass) for each genre to quantify the "distance" between different audience tastes.
 
 
-Project structure
-├── recommender_engine.py      # Interactive recommendation script
-├── movie_galaxy_analysis.py   # t-SNE mapping and centroid logic
-├── movie_galaxy_plot.png      # Final visualization of the clusters
-├── requirements.txt           # Required Python libraries
-└── .gitignore                 # Filters out large CSV datasets
+
